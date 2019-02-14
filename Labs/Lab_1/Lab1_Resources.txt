@@ -1,0 +1,8 @@
+Saving to File
+https://stackoverflow.com/questions/32565281/cant-see-my-app-package-in-androiddata-folder-of-my-phone
+https://developer.android.com/training/data-storage/files#PublicFiles
+
+
+TODO: Notify the other phone of updates
+Maybe check the time stamp on the file
+Check every 60 seconds
